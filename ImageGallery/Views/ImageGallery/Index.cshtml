@@ -1,0 +1,51 @@
+﻿@model List<string>
+
+
+<div>
+    @using (Html.BeginForm("Index","ImageGallery",FormMethod.Post,new{ enctype="multipart/form-data"}))
+    {
+        <div class="row">
+            <div class="form-group col-md-6">
+                <input type="file" class="form-control" name="file" />
+            </div>
+            <div class="form-group col-md-3">
+                <input type="submit" class="btn btn-primary" name="submit" value="upload" />
+            </div>
+
+        </div>
+    }
+
+</div>
+<br />
+<div>
+    <div class="container">
+        <div class="card border-primary">
+            <div class="card-header font-weight-bold border-primary">
+                Image Gallery
+            </div>
+            <div class="row">
+                @if( Model!=null && Model.Any()){
+                    @foreach(var imageFile in Model)
+                    {
+                        <div class="col-md-3" >
+                            <div class="alert alert-success">
+                                <img src="~/uploads/@imageFile" height="100px" width="200px" />
+                            </div>
+                            
+                        </div>
+                    }
+                }
+                else
+                {
+                    <div>
+                        Images not available
+                    </div>
+                    
+                }
+
+            </div>
+        </div>
+
+
+    </div>
+</div>
