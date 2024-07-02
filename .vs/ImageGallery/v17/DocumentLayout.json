@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|c:\\users\\tusha\\source\\repos\\imagegallery\\imagegallery\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|solutionrelative:imagegallery\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|c:\\users\\tusha\\source\\repos\\imagegallery\\imagegallery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|solutionrelative:imagegallery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|c:\\users\\tusha\\source\\repos\\imagegallery\\imagegallery\\views\\image\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|solutionrelative:imagegallery\\views\\image\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|c:\\users\\tusha\\source\\repos\\imagegallery\\imagegallery\\controllers\\imagegallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|solutionrelative:imagegallery\\controllers\\imagegallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|c:\\users\\tusha\\source\\repos\\imagegallery\\imagegallery\\models\\imagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|solutionrelative:imagegallery\\models\\imagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|c:\\users\\tusha\\source\\repos\\imagegallery\\imagegallery\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|solutionrelative:imagegallery\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|c:\\users\\tusha\\source\\repos\\imagegallery\\imagegallery\\service\\serviceimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|solutionrelative:imagegallery\\service\\serviceimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|c:\\users\\tusha\\source\\repos\\imagegallery\\imagegallery\\service\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|solutionrelative:imagegallery\\service\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|c:\\users\\tusha\\source\\repos\\imagegallery\\imagegallery\\imagegallery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|solutionrelative:imagegallery\\imagegallery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|c:\\users\\tusha\\source\\repos\\imagegallery\\imagegallery\\repository\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|solutionrelative:imagegallery\\repository\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|c:\\users\\tusha\\source\\repos\\imagegallery\\imagegallery\\views\\imagegallery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,25 +57,142 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Views\\Image\\Index.cshtml",
+              "RelativeDocumentMoniker": "ImageGallery\\Views\\Image\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Views\\Image\\Index.cshtml",
+              "RelativeToolTip": "ImageGallery\\Views\\Image\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T02:58:44.796Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "ImageGallery\\Controllers\\ImageController.cs",
+              "ToolTip": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "ImageGallery\\Controllers\\ImageController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:51:24.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Startup.cs",
+              "RelativeDocumentMoniker": "ImageGallery\\Startup.cs",
+              "ToolTip": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Startup.cs",
+              "RelativeToolTip": "ImageGallery\\Startup.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:46:58.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceImage.cs",
+              "DocumentMoniker": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Service\\ServiceImage.cs",
+              "RelativeDocumentMoniker": "ImageGallery\\Service\\ServiceImage.cs",
+              "ToolTip": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Service\\ServiceImage.cs",
+              "RelativeToolTip": "ImageGallery\\Service\\ServiceImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:42:43.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Service\\ImageService.cs",
+              "RelativeDocumentMoniker": "ImageGallery\\Service\\ImageService.cs",
+              "ToolTip": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Service\\ImageService.cs",
+              "RelativeToolTip": "ImageGallery\\Service\\ImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:38:38.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageModel.cs",
+              "DocumentMoniker": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Models\\ImageModel.cs",
+              "RelativeDocumentMoniker": "ImageGallery\\Models\\ImageModel.cs",
+              "ToolTip": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Models\\ImageModel.cs",
+              "RelativeToolTip": "ImageGallery\\Models\\ImageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:24:16.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ImageGallery\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ImageGallery\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-01T23:53:57.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "ImageGalleryController.cs",
+              "DocumentMoniker": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Controllers\\ImageGalleryController.cs",
+              "RelativeDocumentMoniker": "ImageGallery\\Controllers\\ImageGalleryController.cs",
+              "ToolTip": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Controllers\\ImageGalleryController.cs",
+              "RelativeToolTip": "ImageGallery\\Controllers\\ImageGalleryController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T23:19:00.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImageGallery",
+              "DocumentMoniker": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\ImageGallery.csproj",
+              "RelativeDocumentMoniker": "ImageGallery\\ImageGallery.csproj",
+              "ToolTip": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\ImageGallery.csproj",
+              "RelativeToolTip": "ImageGallery\\ImageGallery.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T02:27:56.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Repository\\ImageRepository.cs",
+              "RelativeDocumentMoniker": "ImageGallery\\Repository\\ImageRepository.cs",
+              "ToolTip": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Repository\\ImageRepository.cs",
+              "RelativeToolTip": "ImageGallery\\Repository\\ImageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:28:57.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Views\\ImageGallery\\Index.cshtml",
               "RelativeDocumentMoniker": "ImageGallery\\Views\\ImageGallery\\Index.cshtml",
@@ -52,19 +201,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-01T23:19:48.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ImageGalleryController.cs",
-              "DocumentMoniker": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Controllers\\ImageGalleryController.cs",
-              "RelativeDocumentMoniker": "ImageGallery\\Controllers\\ImageGalleryController.cs",
-              "ToolTip": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Controllers\\ImageGalleryController.cs",
-              "RelativeToolTip": "ImageGallery\\Controllers\\ImageGalleryController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCYAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T23:19:00.786Z",
-              "EditorCaption": ""
             }
           ]
         }

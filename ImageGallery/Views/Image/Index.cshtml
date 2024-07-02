@@ -1,0 +1,15 @@
+﻿
+
+@model List<ImageModel>
+
+<h2>My view for the images objects display</h2>
+
+<div>
+    @foreach( var images in Model)
+    {
+        <div>
+            <img src="@images.Url" alt="@images.Description" />
+            <p>@images.Description</p>
+        </div>
+    }
+</div>

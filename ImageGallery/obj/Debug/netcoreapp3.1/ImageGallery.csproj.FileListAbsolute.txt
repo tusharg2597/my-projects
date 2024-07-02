@@ -40,3 +40,4 @@ C:\Users\tusha\source\repos\ImageGallery\ImageGallery\obj\Debug\netcoreapp3.1\Im
 C:\Users\tusha\source\repos\ImageGallery\ImageGallery\obj\Debug\netcoreapp3.1\ImageGal.67DAC4D7.Up2Date
 C:\Users\tusha\source\repos\ImageGallery\ImageGallery\obj\Debug\netcoreapp3.1\Razor\Views\ImageGallery\Index.cshtml.g.cs
 C:\Users\tusha\source\repos\ImageGallery\ImageGallery\obj\Debug\netcoreapp3.1\ImageGallery.sourcelink.json
+C:\Users\tusha\source\repos\ImageGallery\ImageGallery\obj\Debug\netcoreapp3.1\Razor\Views\Image\Index.cshtml.g.cs
