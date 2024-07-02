@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|c:\\users\\tusha\\source\\repos\\imagegallery\\imagegallery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|solutionrelative:imagegallery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|c:\\users\\tusha\\source\\repos\\imagegallery\\imagegallery\\controllers\\imagegallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|solutionrelative:imagegallery\\controllers\\imagegallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|c:\\users\\tusha\\source\\repos\\imagegallery\\imagegallery\\views\\imagegallery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|solutionrelative:imagegallery\\views\\imagegallery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|c:\\users\\tusha\\source\\repos\\imagegallery\\imagegallery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D22215B-293B-4ED8-8BF3-26C02D0E6C36}|ImageGallery\\ImageGallery.csproj|solutionrelative:imagegallery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +22,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ImageGallery\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ImageGallery\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAtAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-01T23:53:57.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Views\\ImageGallery\\Index.cshtml",
               "RelativeDocumentMoniker": "ImageGallery\\Views\\ImageGallery\\Index.cshtml",
@@ -47,25 +51,20 @@
               "RelativeToolTip": "ImageGallery\\Views\\ImageGallery\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T23:19:48.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T23:19:48.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ImageGalleryController.cs",
               "DocumentMoniker": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Controllers\\ImageGalleryController.cs",
               "RelativeDocumentMoniker": "ImageGallery\\Controllers\\ImageGalleryController.cs",
               "ToolTip": "C:\\Users\\tusha\\source\\repos\\ImageGallery\\ImageGallery\\Controllers\\ImageGalleryController.cs",
               "RelativeToolTip": "ImageGallery\\Controllers\\ImageGalleryController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCYAAAAaAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCYAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T23:19:00.786Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

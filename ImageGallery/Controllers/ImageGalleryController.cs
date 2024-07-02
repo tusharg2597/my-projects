@@ -36,7 +36,7 @@ namespace ImageGallery.Controllers
                 }
                 return RedirectToAction("Index");
             }
-            return View();
+            return View();  // This is the final code line
 
         }
     }
